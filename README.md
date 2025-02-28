@@ -1,1 +1,1 @@
-# auto.dadarachi.io
+# auto.dadarachi.github.io
